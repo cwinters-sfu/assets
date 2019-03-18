@@ -1,0 +1,9 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "Common web assets for DHIL projects",
+  "license": "MIT",
+  "dependencies": {
+    "typeface-cormorant-garamond": "0.0.72"
+  }
+}
