@@ -4,6 +4,7 @@
   "description": "Common web assets for DHIL projects",
   "license": "MIT",
   "dependencies": {
+    "lato-font": "^3.0.0",
     "typeface-cormorant-garamond": "0.0.72"
   }
 }
