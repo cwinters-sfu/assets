@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "lato-font": "^3.0.0",
-    "typeface-cormorant-garamond": "0.0.72"
+    "typeface-cormorant-garamond": "0.0.72",
+    "typeface-encode-sans": "0.0.72",
+    "typeface-encode-sans-condensed": "0.0.72"
   }
 }
